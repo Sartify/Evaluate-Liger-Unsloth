@@ -13,7 +13,7 @@ This notebook evaluates the performance of the Liger model, focusing on:
 Gemma-2-2B
 - **Throughput (tokens per second)**: 17.88
 - **Peak memory  (MB)**: 10920.00
-Gemma-2-9B
+-Gemma-2-9B
 - **OOM**
 - Gemma-2-27B
 - **OOM**
